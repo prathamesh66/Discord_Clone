@@ -1,6 +1,6 @@
 # Discord Clone
 
-This is a web-based clone of the popular communication platform, Discord. The application allows users to chat, join servers, and engage in real-time conversations, simulating the core features of Discord.
+This is a web-based clone of the popular communication platform, Discord. The application allows users to chat, join servers, and engage in real-time conversations, simulating the core features of Discord..
 
 ## Features
 
